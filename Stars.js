@@ -3,7 +3,7 @@
  ***************************************/
 
 // --- Color Palette ---
-const sustain = "#ff0059"; // Pink (Community, Funding, Foundation)
+const sustain = "#ffbab3"; // Pink (Community, Funding, Foundation)
 const reach   = "#ff1808"; // Red (Portfolio, Outreach, Impact)
 const connect = "#ffc800"; // Yellow (Calls, Meetings, Networking)
 const co      = "#ffffff"; // White (Constellation Teams)
