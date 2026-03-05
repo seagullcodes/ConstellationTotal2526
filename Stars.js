@@ -726,18 +726,131 @@ const stars = [
        description: "1/13/2026 | Los Angeles, CA, United States",
        takeaway: "We can empower girls to participate in FIRST by sharing our resources and supporting other girls’ teams! ",
        color: sustain,
-       coordinates: home
+       coordinates: {lat: 29.4252, lng: -98.4946}
    },
    {
        title: "#104 | Call with Hype-Birds",
-       description: "1/14/2026 | Remote",
+       description: "1/14/2026 | Tlalpan, Mexico",
        takeaway: "By translating our guides into different languages, we can make our resources more accessible to teams around the world, particularly teams in underrepresented regions in STEM!",
        color: reach,
-       coordinates: home
+       coordinates: {lat: 19.2, lng: -99.21}
    },
+    {
+     title: "#105 | Call with Qualia Robotics",
+      description: "1/16/2026 | Calabasas, California",
+     takeaway: "Guiding others on the visual aesthetics and information layout allows us to better support other teams and look for smaller details.",
+     color: reach,
+     coordinates: {lat: 34.15, lng: -118.65}
+     },
+     {
+        title: "#106 | Call with Team FoxSlide",
+        description: "1/23/2026 | Astana, Kazakhstan",
+        takeaway: "We can share our experiences and advice to help newer teams with their competitions!",
+        color: sustain,
+        coordinates: { lat: 34.01789948305538, lng: -118.42802993837986}
+    },
+    {
+        title: "#107 | Avant-Grade Portfolio Feedback",
+        description: "1/26/2026 | Nashua, NH, USA",
+        takeaway: " It is rewarding to support smaller size teams with their portfolio and learn about their unique experience. ",
+        color: reach,
+        coordinates: { lat: 42.7654, lng: -71.4676 }
+    },
+    {
+        title: "#108 | G-Force Portfolio Feedback",
+        description: "2/2/2026 | Mumbai, MH, India",
+        takeaway: "Helping international teams can allow them to improve their portfolios by providing a new and diverse perspective! ",
+        color: reach,
+        coordinates: { lat: 19.0760, lng: 72.8777 }
+    },
+    {
+        title: "#109 | Techineers Portfolio Feedback",
+        description: "2/3/2026 | Naperville, IL, USA",
+        takeaway: "Using selective bolding and colorful arrows/selection make important information easier to digest, and investing a sustainability plan can improve long-term success. ",
+        color: reach,
+        coordinates: { lat: 41.7508, lng: -88.1535 }
+    },
+    {
+        title: "#110 | Call with Team Celestial",
+        description: "2/5/2026 | Astana, Kazakhstan",
+        takeaway: "Reaching out to different teams can be great for recruiting speakers, but also building in time to change plans and accommodate schedules can ensure that an event runs smoothly even if some things go wrong!",
+        color: reach,
+        coordinates: {lat: 52.9333, lng:70.2023} 
+    },
+    {
+        title: "#111 | Marlborough Admissions Event",
+        description: "2/19/2026 | Los Angeles, CA, USA",
+        takeaway: "We learned how sharing our experiences can inspire younger girls to get engaged in STEM, encourage growth from FLL to our school’s FTC program, and strengthen the long-term sustainability of our robotics community. We recruited students to our school by sharing about the success and positive experiences of our robotics team!",
+        color: reach,
+        coordinates: { lat: 34.08720821088031, lng: -118.32861041712056}
+    },
+    {
+        title: "#112 | National Society of Black Engineers Lesson",
+        description: "2/19/2026 | Los Angeles, CA, USA",
+        takeaway: "We can bring FIRST to kids from underrepresented communities  through fun, engaging lessons!",
+        color: reach,
+        coordinates: {lat: 34.0326, lng: -118.3245}
+    },
+    {
+        title: "#113 | Astrobots Portfolio Feedback",
+        description: "2/26/2026 | Los Angeles, CA, USA",
+        takeaway: "Include all the details possible! Readers only know what you tell them, so ensuring to include all parts of the planning, execution, and reflection processes can enhance how awesome your events are in your documentation!",
+        color: reach,
+        coordinates: { lat: 19.0760, lng: 72.8777 }
+    },
+    {
+        title: "#114 | STEAMpunks Bravo Portfolio Feedback",
+        description: "2/26/2026 | Irvine, CA, USA",
+        takeaway: "Including short text descriptions, like captions under images or subheaders, can make your page easy to search for specific information and also ensure all information is communicated efficiently. ",
+        color: reach,
+        coordinates: { lat: 33.6846, lng: -117.8265 }
+    },
+    {
+        title: "#115 | Epsilon Portfolio Feedback",
+        description: "2/26/2026 | Sioux City, IA, USA",
+        takeaway: "Keeping pages with similar content together and creating separate technical and non-technical sections of your portfolio can help readers have a smooth reading experience! ",
+        color: reach,
+        coordinates: { lat: 42.4963, lng: -96.4059 }
+    },
+    {
+        title: "#116 | Dead Space Portfolio Feedback",
+        description: "2/26/2026 | Monrovia, CA, USA",
+        takeaway: "Making effective use of all space on each page and leaning into your teams strength’s can create a vibrant and interesting portfolio! ",
+        color: reach,
+        coordinates: { lat: 34.1481, lng: -118.0019 }
+    },
+    {
+        title: "#117 | Panheya Portfolio Feedback",
+        description: "2/28/2026 | Almaty, ALA, Kazakhstan",
+        takeaway: "Taking into account all the different ways/angles/order your portfolio might be read in can help inform where creative headings and page breaks are useful to ensure everything makes sense!",
+        color: reach,
+        coordinates: { lat: 43.2389, lng: 76.8897 }
+    },
+    {
+        title: "#118 | Call with Team Panheya",
+        description: "2/27/2026 | Almaty, ALA, Kazakhstan",
+        takeaway: "Sharing feedback on sustainable outreach initiatives and advising teams on how to scale their own programs can widen the accessibility of FIRST on an international scale!",
+        color: sustain,
+        coordinates: {lat: 43.23, lng: 76.93}
+    },
+    {
+        title: "#119 | Divide by Zero Portfolio Feedback",
+        description: "2/28/2026 | Lansdale, PA, USA",
+        takeaway: "Fast turn-around time can prove essential for teams near competitions, and providing detailed feedback can boost a team’s confidence in their preparation for a tournament. ",
+        color: reach,
+        coordinates: { lat: 40.2427, lng: -75.2815 }
+    },
+    {
+        title: "#120 | IAmAngel LAUSD Team Fundraising Call",
+        description: "3/3/2026 | Los Angeles, CA, USA",
+        takeaway: "We can begin the process of founding new FTC teams by providing financial support and hands-on mentorship to an underserved region. ",
+        color: reach,
+        coordinates: {lat: 34.059, long: -118.24}
+    },
 
-   // ==========================================
-   // CONSTELLATION TEAMS (From Stars1.js)
+
+    // ==========================================
+    // CONSTELLATION TEAMS (From Stars1.js)
    // ==========================================
    {
        title: "Constellation Team: 19013 G Force",
