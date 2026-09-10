@@ -845,7 +845,7 @@ const stars = [
         description: "3/3/2026 | Los Angeles, CA, USA",
         takeaway: "We can begin the process of founding new FTC teams by providing financial support and hands-on mentorship to an underserved region. ",
         color: reach,
-        coordinates: {lat: 34.059, long: -118.24}
+        coordinates: {lat: 34.059, lng: -118.24}
     },
 
 
